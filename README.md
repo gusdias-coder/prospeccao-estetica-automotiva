@@ -2,6 +2,12 @@
 
 Lista de 100 empresas para prospecção de criação de sites em Campinas e entorno ampliado, incluindo Jundiaí e Piracicaba.
 
+## Site publicado
+
+[Abrir a lista online](https://prospeccao-estetica-automotiva.diass-gustavvoo.chatgpt.site)
+
+Hospedado no Sites com acesso privado, vinculado à conta proprietária. A publicação atual foi feita a partir dos arquivos deste repositório; novos commits no GitHub não geram publicação automática.
+
 - 85 contatos por Instagram e 15 links de WhatsApp publicados no Google Maps.
 - Pesquisa realizada em 19/10/2026.
 - Página com busca por empresa e filtros por região, canal e prioridade.
